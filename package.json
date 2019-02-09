@@ -1,0 +1,25 @@
+{
+    "name": "intro-node-js",
+    "version": "1.0.0",
+    "description": "Modulo Node JS de introduccion",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ruslanguns/anartz-npm-introduccion-node.git"
+    },
+    "keywords": [
+        "introduccion",
+        "nodejs",
+        "node",
+        "js"
+    ],
+    "author": "Ruslan Gonzalez <ruslanguns@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ruslanguns/anartz-npm-introduccion-node/issues"
+    },
+    "homepage": "https://github.com/ruslanguns/anartz-npm-introduccion-node#readme"
+}
